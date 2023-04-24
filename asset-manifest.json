@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-weather-app/static/css/main.1b1dbc29.css",
+    "main.js": "/my-weather-app/static/js/main.8031530b.js",
+    "static/media/humidty.jpg": "/my-weather-app/static/media/humidty.164fb5c9e12c781fc029.jpg",
+    "static/media/humidty3.jpg": "/my-weather-app/static/media/humidty3.6e107d8179e179fdd823.jpg",
+    "static/media/wind.jpg": "/my-weather-app/static/media/wind.39df2c690019edd9779c.jpg",
+    "static/media/mist.png": "/my-weather-app/static/media/mist.a111f4195c6ca3846995.png",
+    "static/media/cloud.png": "/my-weather-app/static/media/cloud.697b57a0a9c8b98b0ae6.png",
+    "static/media/clear.png": "/my-weather-app/static/media/clear.0756fd770f55ea454fd7.png",
+    "index.html": "/my-weather-app/index.html",
+    "main.1b1dbc29.css.map": "/my-weather-app/static/css/main.1b1dbc29.css.map",
+    "main.8031530b.js.map": "/my-weather-app/static/js/main.8031530b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b1dbc29.css",
+    "static/js/main.8031530b.js"
+  ]
+}
